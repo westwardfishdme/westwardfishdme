@@ -4,6 +4,7 @@ I'm a student studying at Loyola University getting my bachelor's in Cybersecuri
 with a potential double major into Software Engineering (TBD).
 
 ## Summary
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westwardfishdme&hide=javascript,css,scss,html&theme=onedark)
 - My programming language of choice is Rust-- but I can work in Python, C, or any other
 language given I get a week to understand it's conventions and syntax.
 - Most of my software projects here are designed to help me manage my system's more effectively;
