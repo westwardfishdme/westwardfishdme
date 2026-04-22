@@ -22,7 +22,7 @@ This is my flagship project. I have been working on Genpass for over 3 years now
 most of my career thus far to maintaining, building, and adding features.
 
 It's a password generation tool written in Rust that can generate different types of high 
-entropy passwords and even store them into PNG images. Exhibits polymorphic via Rust's 
+entropy passwords and even store them into PNG images. Exhibits polymorphic behavior via Rust's 
 Traits and Generics. Built for Windows/Linux environments.
 
 - [Python-SAT](https://github.com/merci-libre/python-sat)
