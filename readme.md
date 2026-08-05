@@ -1,4 +1,5 @@
 ![omniman](./blobs/omniman.svg)
+
 Welcome to my github! My name is Jonathan, but most people just call me Finch! 
 I'm a student studying at Loyola University getting my bachelor's in Cybersecurity 
 with a potential double major into Software Engineering (TBD).
