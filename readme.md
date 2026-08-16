@@ -7,12 +7,13 @@ with a potential double major into Software Engineering (TBD).
 ## Summary
  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=westwardfishdme&hide=lua,javascript,css,scss,html&theme=onedark&custom_title=Finch%27s%20Favorite%20Languages)
 - My programming language of choice is Rust-- but I can work in Python, C, or any other
-language given I get a week to understand it's conventions and syntax.
+language given I get a bit to understand it's conventions and syntax.
 - Most of my software projects here are designed to help me manage my system's more effectively;
 but I have some repositories that were designed to help other students, developers, or researchers
 who come look at my page! 
 - Most of my work focuses around security and network administration stuff, although I like to explore
 other topics and concepts within the field of computing theory, and mathematics :3
+- Anti-AI. All code written past 2025 is all by me. 
 
 ## Notable projects
 If you're interested in some of my better works; I suggest you take a look at the following projects:
