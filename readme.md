@@ -15,10 +15,10 @@ who come look at my page!
 other topics and concepts within the field of computing theory, and mathematics :3
 - Anti-AI. All code written past 2025 is all by me. 
 
-## Notable projects
+# Notable projects
 If you're interested in some of my better works; I suggest you take a look at the following projects:
 
-- [Genpass](https://github.com/merci-libre/genpass-rs)
+## [Genpass](https://github.com/merci-libre/genpass-rs)
 ### What is it?
 This is my flagship project. I have been working on Genpass for over 3 years now. I have dedicated
 most of my career thus far to maintaining, building, and adding features.
@@ -27,14 +27,14 @@ It's a password generation tool written in Rust that can generate different type
 entropy passwords and even store them into PNG images. Exhibits polymorphic behavior via Rust's 
 Traits and Generics. Built for Windows/Linux environments.
 
-- [Python-SAT](https://github.com/merci-libre/python-sat)
+## [Python-SAT](https://github.com/merci-libre/python-sat)
 ### What is it?
 This was my final project for my Introduction to Computer Programming Course that I had designed
 and written extending far beyond course expectations. It uses ICMP and TCP for port scanning multiple 
 servers simultaneously through Python's concurrency module. Uses [TOML](https://toml.io/en/) for it's 
 configuration, and has a custom logging system. Built for Linux/MacOS-- written in Python.
 
-- [Self-deleting Binary](https://github.com/westwardfishdme/POC_binary_self_deletion)
+## [Self-deleting Binary](https://github.com/westwardfishdme/POC_binary_self_deletion)
 ### What is it?
 This is a concept I had written back in December 2025 for a self-deleting binary on linux machines
 for offensive capabilities. It was inspired by some leaked CIA spying tools back in 2017 under the
@@ -45,7 +45,7 @@ This project features a live branch with a working Reverse TCP shell using tokio
 
 This project is also written in Rust.
 
-- [Mnemosyne](https://github.com/westwardfishdme/comp250-notes/blob/master/research_paper/paper/mnemosyne.pdf)
+## [Mnemosyne](https://github.com/westwardfishdme/comp250-notes/blob/master/research_paper/paper/mnemosyne.pdf)
 ### What is it?
 A research paper detailing my contributions to a C-to-Rust transpiler that I had written as a part of my final for COMP250 at Loyola University.
 I had spent countless hours writing all of the benchmark scripts, analysis, and implementation details. It is currently an unfinished, but
