@@ -43,8 +43,6 @@ which had a planned self-deletion module that was scrapped due to discrepancies 
 
 This project features a live branch with a working Reverse TCP shell using tokio and async Rust.
 
-This project is also written in Rust.
-
 ## [Mnemosyne](https://github.com/westwardfishdme/comp250-notes/blob/master/research_paper/paper/mnemosyne.pdf)
 ### What is it?
 A research paper detailing my contributions to a C-to-Rust transpiler that I had written as a part of my final for COMP250 at Loyola University.
