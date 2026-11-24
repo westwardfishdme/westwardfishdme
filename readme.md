@@ -1,8 +1,8 @@
 ![omniman](./blobs/omniman.svg)
 
 Welcome to my github! My name is Jonathan, but most people just call me Finch! 
-I'm a student studying at Loyola University getting my bachelor's in Cybersecurity 
-with a potential double major into Software Engineering (TBD).
+I'm a student studying at Loyola University getting my bachelor's in Cybersecurity,
+and currently looking to enroll into the Accelerated Master's program in January.
 
 ## Summary
  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=westwardfishdme&hide=lua,javascript,css,scss,html&theme=onedark&custom_title=Finch%27s%20Favorite%20Languages)
@@ -41,4 +41,13 @@ for offensive capabilities. It was inspired by some leaked CIA spying tools back
 codename Vault7 (specifically [Hive](https://wikileaks.org/vault7/document/hive-DevelopersGuide/hive-DevelopersGuide.pdf), 
 which had a planned self-deletion module that was scrapped due to discrepancies and issues with it's implementation)
 
+This project features a live branch with a working Reverse TCP shell using tokio and async Rust.
+
 This project is also written in Rust.
+
+- [Mnemosyne](https://github.com/westwardfishdme/comp250-notes/blob/master/research_paper/paper/mnemosyne.pdf)
+### What is it?
+A research paper detailing my contributions to a C-to-Rust transpiler that I had written as a part of my final for COMP250 at Loyola University.
+I had spent countless hours writing all of the benchmark scripts, analysis, and implementation details. It is currently an unfinished, but
+ongoing project as a larger effort to transliterate legacy C codebases over to Rust.
+
